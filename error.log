@@ -1,0 +1,11 @@
+{"level":"error","message":"User could not reach to -> users/24cc1770-a536-4ac2-906c-a9895b4f6dc8 and get error -> 404 "}
+{"level":"error","message":"User could not reach to -> users/24cc1770-a536-4ac2-906c-a9895b4f6dc8 and get error -> 404 "}
+{"level":"error","message":"User could not reach to ->GET users/24cc1770-a536-4ac2-906c-a9895b4f6dc8 and got error -> 404 "}
+{"level":"error","message":"User could not reach to ->DELETE users/8ac9699b-c59e-4d4b-9246-36cf83e126f9 and got error -> 200 "}
+{"level":"error","message":"User could not reach to -> GET //none and got error -> 200 "}
+{"level":"error","message":"User could not reach to -> GET /none and got error -> 404 "}
+{"level":"error","message":"User could not reach to -> GET / and got error -> 404 "}
+{"level":"error","message":"User could not reach to -> GET / and got error -> 404 "}
+{"level":"error","message":"User could not reach to -> GET /none and got error -> 404 "}
+{"level":"error","message":"User could not reach to -> GET users/24cc1770-a536-4ac2-906c-a9895b4f6dc8 and got error -> 404 "}
+{"level":"error","message":"User could not reach to -> PUT users/5dce8a2f-cdb5-4a69-901c-5ac4335b11a2 and got error -> 200 "}

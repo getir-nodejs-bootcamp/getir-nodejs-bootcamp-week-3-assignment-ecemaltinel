@@ -1,0 +1,37 @@
+{"level":"error","message":"User could not reach to -> users/24cc1770-a536-4ac2-906c-a9895b4f6dc8 and get error -> 404 ","timestamp":"2021-12-04T17:30:32.087Z"}
+{"level":"info","message":"User reached successfully to -> users/","timestamp":"2021-12-04T17:44:20.807Z"}
+{"level":"info","message":"User reached successfully to -> users/","timestamp":"2021-12-04T17:44:34.676Z"}
+{"level":"info","message":"User reached successfully to -> GET users /","timestamp":"2021-12-04T17:46:23.602Z"}
+{"level":"info","message":"User reached successfully to -> GET users/","timestamp":"2021-12-04T17:46:37.769Z"}
+{"level":"info","message":"User reached successfully to -> POST users/","timestamp":"2021-12-04T17:46:46.049Z"}
+{"level":"error","message":"User could not reach to -> users/24cc1770-a536-4ac2-906c-a9895b4f6dc8 and get error -> 404 ","timestamp":"2021-12-04T17:46:52.711Z"}
+{"level":"error","message":"User could not reach to ->GET users/24cc1770-a536-4ac2-906c-a9895b4f6dc8 and got error -> 404 ","timestamp":"2021-12-04T17:47:19.780Z"}
+{"level":"error","message":"User could not reach to ->DELETE users/8ac9699b-c59e-4d4b-9246-36cf83e126f9 and got error -> 200 ","timestamp":"2021-12-04T17:47:29.018Z"}
+{"level":"info","message":"User reached successfully to -> GET users/","timestamp":"2021-12-04T17:52:01.990Z"}
+{"level":"error","message":"User could not reach to -> GET //none and got error -> 200 ","timestamp":"2021-12-04T17:55:32.684Z"}
+{"level":"error","message":"User could not reach to -> GET /none and got error -> 404 ","timestamp":"2021-12-04T17:56:01.634Z"}
+{"level":"error","message":"User could not reach to -> GET / and got error -> 404 ","timestamp":"2021-12-04T17:56:20.237Z"}
+{"level":"error","message":"User could not reach to -> GET / and got error -> 404 ","timestamp":"2021-12-04T17:57:22.822Z"}
+{"level":"error","message":"User could not reach to -> GET /none and got error -> 404 ","timestamp":"2021-12-04T17:57:51.276Z"}
+{"level":"info","message":"User reached successfully to -> GET users/","timestamp":"2021-12-04T20:39:15.447Z"}
+{"level":"info","message":"User reached successfully to -> GET users/","timestamp":"2021-12-04T20:39:51.378Z"}
+{"level":"info","message":"User reached successfully to -> GET users/","timestamp":"2021-12-04T20:40:10.695Z"}
+{"level":"info","message":"User reached successfully to -> GET users/","timestamp":"2021-12-04T20:41:07.064Z"}
+{"level":"info","message":"User reached successfully to -> GET users/","timestamp":"2021-12-04T20:41:23.463Z"}
+{"level":"info","message":"User reached successfully to -> POST users/","timestamp":"2021-12-04T20:46:54.114Z"}
+{"level":"info","message":"User reached successfully to -> GET users/","timestamp":"2021-12-04T20:46:58.902Z"}
+{"level":"info","message":"User reached successfully to -> GET users/","timestamp":"2021-12-04T21:38:32.891Z"}
+{"level":"info","message":"User reached successfully to -> POST users/","timestamp":"2021-12-04T21:40:00.903Z"}
+{"level":"info","message":"User reached successfully to -> GET users/","timestamp":"2021-12-04T21:40:04.173Z"}
+{"level":"info","message":"User reached successfully to -> GET users/","timestamp":"2021-12-05T16:14:54.969Z"}
+{"level":"info","message":"User reached successfully to -> POST users/","timestamp":"2021-12-05T16:15:06.482Z"}
+{"level":"info","message":"User reached successfully to -> GET users/","timestamp":"2021-12-05T16:15:09.956Z"}
+{"level":"error","message":"User could not reach to -> GET users/24cc1770-a536-4ac2-906c-a9895b4f6dc8 and got error -> 404 ","timestamp":"2021-12-05T16:15:32.778Z"}
+{"level":"info","message":"User reached successfully to -> GET users/0737316a-e3a4-4dd1-ae12-c92b288b1b06","timestamp":"2021-12-05T16:15:42.995Z"}
+{"level":"info","message":"User reached successfully to -> DELETE users/0737316a-e3a4-4dd1-ae12-c92b288b1b06","timestamp":"2021-12-05T16:16:15.690Z"}
+{"level":"info","message":"User reached successfully to -> GET users/","timestamp":"2021-12-05T16:16:19.974Z"}
+{"level":"info","message":"User reached successfully to -> PATCH users/55f85249-01d6-4312-ad4c-6ab55fc91334","timestamp":"2021-12-05T16:16:53.382Z"}
+{"level":"info","message":"User reached successfully to -> GET users/","timestamp":"2021-12-05T16:16:59.048Z"}
+{"level":"error","message":"User could not reach to -> PUT users/5dce8a2f-cdb5-4a69-901c-5ac4335b11a2 and got error -> 200 ","timestamp":"2021-12-05T16:17:18.309Z"}
+{"level":"info","message":"User reached successfully to -> PUT users/55f85249-01d6-4312-ad4c-6ab55fc91334","timestamp":"2021-12-05T16:17:24.611Z"}
+{"level":"info","message":"User reached successfully to -> GET users/","timestamp":"2021-12-05T16:17:27.400Z"}
